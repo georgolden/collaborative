@@ -1,0 +1,19 @@
+{
+  "name": "collaborative",
+  "version": "0.0.1",
+  "description": "Collaborative web application R&D",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run lint && npm run types && metatests test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgolden/collaborative.git"
+  },
+  "author": "Georg Oldenburger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgolden/collaborative/issues"
+  },
+  "homepage": "https://github.com/georgolden/collaborative#readme"
+}

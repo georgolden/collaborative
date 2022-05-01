@@ -16,7 +16,7 @@
 ## Structure
 
 | Folder name | Description                                       | Advice                                                                                   |
-|-------------|---------------------------------------------------|------------------------------------------------------------------------------------------|
+| ----------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | lib         | For helpers to build server                       | Keep here everything, that you want to reuse on server layer                             |
 | api         | For transport agnostic API methods implementation | keep here only code, which correspond to API method functionality                        |
 | domain      | For business logic functionality                  | logic, which invoked under the API method must be here, never keep fat API method        |
